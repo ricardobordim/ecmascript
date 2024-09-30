@@ -2,3 +2,4 @@ git init
 git status
 git add exemplo.txt
 git add .
+git commit -m "Incluindo comandos"
